@@ -5,6 +5,7 @@ Checks text from the text.txt file (utf-8) for palindrome sentences, containing 
 Prints found palindromes, if any, and saves them to palindromes_found.txt.
 
 An example text is given, should find:
-Don't nod
-No lemon, no melon
-Red rum, sir, is murder
+
+Don't nod.
+No lemon, no melon.
+Red rum, sir, is murder.
